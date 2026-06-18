@@ -1,46 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Muzammil&fontSize=42&fontColor=fff&fontAlignY=38&desc=⚡%20Frontend%20Developer%20%7C%20Aspiring%20Full-Stack%20Engineer&descSize=17&descAlignY=58&descColor=e0f7fa&animation=fadeIn" width="100%" />
+<!-- Modern Top Header Design -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Muhammad%20Muzammil&fontSize=42&fontColor=38bdf8&fontAlignY=45&desc=⚡%20Frontend%20Developer%20%7C%20Aspiring%20Full-Stack%20Engineer&descSize=16&descAlignY=68&descColor=94a3b8" width="100%" />
+
+<!-- Polished Typing Subtitle -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=Building+clean+%26+responsive+UIs+%F0%9F%92%BB;React.js+%7C+JavaScript+%7C+Tailwind+CSS;Learning+Node.js+%7C+Express+%7C+MongoDB;Open+to+collaborate+on+cool+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&width=600&lines=Building+clean+%26+responsive+UIs+%F0%9F%92%BB;React.js+%7C+JavaScript+%7C+Tailwind+CSS;Learning+Node.js+%7C+Express+%7C+MongoDB;Open+to+collaborate+on+cool+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
+<br/>
 
 ---
 
 ## 👨‍💻 About Me
 
-```ts
-const muzammil = {
-  name       : "Muhammad Muzammil",
-  location   : "Karachi, Pakistan 🇵🇰",
-  role       : "Frontend Developer → Full-Stack (in progress)",
-  email      : "farooqmuzamil.127@gmail.com",
-  learning   : ["Node.js", "Express.js", "MongoDB"],
-  openTo     : ["Open-source", "Fintech/Payment integrations", "Full-stack web apps"],
-  strengths  : ["Clean Architecture", "Responsive Design", "Problem Solving"],
-  funFact    : "What starts as a quick fix often ends at 2 AM 🌙",
-};
-```
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
 
-<table>
-<tr>
-<td>🌍</td><td>Based in <strong>Karachi, Pakistan</strong></td>
-<td>🚀</td><td>Currently mastering <strong>Backend Development</strong></td>
-</tr>
-<tr>
-<td>🤝</td><td>Open to <strong>Open-source & Fintech</strong> collabs</td>
-<td>🧠</td><td>Always learning, always building</td>
-</tr>
-<tr>
-<td>✉️</td><td><a href="mailto:farooqmuzamil.127@gmail.com">farooqmuzamil.127@gmail.com</a></td>
-<td>💬</td><td>Ask me about <strong>React, JS, or Tailwind</strong></td>
-</tr>
-</table>
+🌍 &nbsp;Based in **Karachi, Pakistan 🇵🇰**  
+🎯 &nbsp;**Frontend Developer** transitioning to **Full-Stack**  
+🌱 &nbsp;Currently learning **Node.js · Express.js · MongoDB**  
+🤝 &nbsp;Open to **Open-source & Fintech** collaborations  
+💬 &nbsp;Ask me about **React, JavaScript, or Tailwind CSS**  
+⚡ &nbsp;Fun fact: A "quick fix" always ends at **2 AM** 🌙  
+📫 &nbsp;Reach me at **farooqmuzamil.127@gmail.com**
+
+<br clear="right"/>
 
 ---
 
@@ -55,9 +39,6 @@ const muzammil = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=fff)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=fff)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
 
 ### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
@@ -72,7 +53,6 @@ const muzammil = {
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
 
 ---
@@ -87,35 +67,21 @@ const muzammil = {
 
 ---
 
-## 🐍 My Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muzammilfarooq17/muzammilfarooq17/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muzammilfarooq17/muzammilfarooq17/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/muzammilfarooq17/muzammilfarooq17/output/github-snake.svg" />
-</picture>
-
-</div>
-
-> ⚠️ **One-time setup required for the snake above** — see instructions below ↓
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muzammilfarooq17&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&border_radius=10" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=muzammilfarooq17&show_icons=true&count_private=true&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&bg_color=0d1117&hide_border=true&border_radius=8" height="165" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilfarooq17&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10&langs_count=6" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilfarooq17&layout=compact&title_color=38bdf8&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=8&langs_count=6" height="165" alt="Top Languages" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilfarooq17&stroke=0891b2&background=0d1117&ring=0891b2&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilfarooq17&stroke=38bdf8&background=0d1117&ring=06b6d4&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=true&border_radius=8" alt="GitHub Streak" />
 
 </div>
 
@@ -125,7 +91,7 @@ const muzammil = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilfarooq17&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilfarooq17&bg_color=0d1117&color=38bdf8&line=06b6d4&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -135,7 +101,7 @@ const muzammil = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-muzammilfarooq17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muzammilfarooq17)
+[![GitHub](https://img.shields.io/badge/GitHub-muzammilfarooq17-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muzammilfarooq17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Muzammil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-muzammil-544826351/)
 [![Email](https://img.shields.io/badge/Gmail-farooqmuzamil.127-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farooqmuzamil.127@gmail.com)
 
@@ -146,23 +112,21 @@ const muzammil = {
 ## 💭 Dev Quote of the Day
 
 <div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+<h3><blockquote>"There are two ways to write error-free programs; only the third one works."</blockquote></h3>
+<p>─ Alan J. Perlis</p>
 </div>
+
+> 💡 **The Reality Check:** As a Full-Stack developer, you realize the "third way" is just writing the code, watching it break spectacularly on the frontend, finding out the database schema didn't match the API layout, screaming into a coffee mug at midnight, and somehow fixing it all by 2:00 AM with a solution you can't fully explain. And honestly? There is no better feeling.
 
 ---
 
-## 👁️ Profile Views
-
+<!-- Clean, Integrated Footer Design -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=muzammilfarooq17&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=muzammilfarooq17&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile Views" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer&reversal=true&fontColor=fff" width="100%" />
 
 </div>
