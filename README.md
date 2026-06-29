@@ -16,15 +16,55 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
 
-🌍 &nbsp;Based in **Karachi, Pakistan 🇵🇰**  
-🎯 &nbsp;**Frontend Developer** transitioning to **Full-Stack**  
-🌱 &nbsp;Currently learning **Node.js · Express.js · MongoDB**  
-🤝 &nbsp;Open to **Open-source & Fintech** collaborations  
-💬 &nbsp;Ask me about **React, JavaScript, or Tailwind CSS**  
-⚡ &nbsp;Fun fact: A "quick fix" always ends at **2 AM** 🌙  
-📫 &nbsp;Reach me at **farooqmuzamil.127@gmail.com**
+```javascript
+const muzammil = {
+  location     : "Karachi, Pakistan 🇵🇰",
+  role         : "Frontend Developer → Full-Stack",
+  currentFocus : ["Node.js", "Express.js", "MongoDB"],
+  passions     : ["Clean UI", "Open Source", "Fintech"],
+  askMeAbout   : ["React", "JavaScript", "Tailwind CSS"],
+  funFact      : "My 'quick fixes' have a 2 AM deadline 🌙",
+  contact      : "farooqmuzamil.127@gmail.com"
+};
+```
+
+<br/>
+
+### 🎯 What Drives Me
+
+> I believe great software is built at the intersection of **clean code** and **great design**. I'm on a mission to grow from crafting pixel-perfect UIs to building robust full-stack systems — one late-night commit at a time.
+
+<table>
+  <tr>
+    <td>🚀 <b>Building</b></td>
+    <td>Full-stack apps with React + Node.js + MongoDB</td>
+  </tr>
+  <tr>
+    <td>📚 <b>Learning</b></td>
+    <td>REST APIs · Auth flows · Database design patterns</td>
+  </tr>
+  <tr>
+    <td>🤝 <b>Open to</b></td>
+    <td>Open-source · Fintech · Clean architecture projects</td>
+  </tr>
+  <tr>
+    <td>💡 <b>Exploring</b></td>
+    <td>Clean code principles · Software design patterns</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Superpower</b></td>
+    <td>Turning midnight bugs into production-ready features</td>
+  </tr>
+</table>
 
 <br clear="right"/>
+
+<!-- Animated skill wave -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=600&color=94A3B8&center=true&vCenter=true&width=620&lines=const+mood+%3D+%22coffee+%2B+code+%3D+%E2%9C%A8+magic%22;git+commit+-m+%22fix%3A+finally+understood+the+bug%22;console.log(%22Still+debugging...+send+help%22);npm+run+%22make-it-work%22+%F0%9F%A4%9E)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -112,11 +152,12 @@
 ## 💭 Dev Quote of the Day
 
 <div align="center">
-<h3><blockquote>"There are two ways to write error-free programs; only the third one works."</blockquote></h3>
-<p>─ Alan J. Perlis</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=60&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;─+John+Johnson)](https://git.io/typing-svg)
+
 </div>
 
-> 💡 **The Reality Check:** As a Full-Stack developer, you realize the "third way" is just writing the code, watching it break spectacularly on the frontend, finding out the database schema didn't match the API layout, screaming into a coffee mug at midnight, and somehow fixing it all by 2:00 AM with a solution you can't fully explain. And honestly? There is no better feeling.
+> 💡 **The Developer's Reality:** You spend 10 minutes writing the feature and 10 hours wondering why it works. Then at 2 AM, half-asleep and on your third coffee, you accidentally fix a bug you didn't know existed — and somehow break two that didn't exist yesterday. Welcome to the craft. We wouldn't trade it for anything.
 
 ---
 
